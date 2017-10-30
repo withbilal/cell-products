@@ -1,0 +1,520 @@
+.desktop-screen
+    {
+        
+    }
+
+#desktop-top-header
+    {
+        padding: 8px;
+        border-bottom: 1px solid #d1d3d4;
+        box-shadow: 0px 0px 6px 0px #d1d3d4;   
+    }
+
+#desktop-logo
+    {
+        text-align: center;
+        padding-left: 150px;
+
+        /* padding: 5px; */
+    }
+
+#desktop-logo h4 a
+    {
+        font-weight: 700;   
+        color: #000;
+    }
+
+#desktop-top-signin
+    {
+        /* padding: 5px; */
+        padding-top: 7px;
+        border-right: 1px solid;
+        text-align: center;
+    }
+
+#desktop-top-signin a
+    {
+        color: #000;
+    }
+
+#desktop-top-search-icon
+    {
+        padding-top: 10px;
+        padding-bottom: 7px;
+        border-right: 1px solid;
+        text-align: right;   
+    }
+#desktop-top-search-icon a
+    {
+        color: #000;
+    }
+    
+.search-input-add
+    {
+        width: 100%;
+        background: #f6f6f6;
+        border: transparent;
+        padding: 10px 4px;
+        border-radius: 20px;
+        margin-bottom: 12px;
+    }
+
+#desktop-top-briefcase-icon
+    {
+        /* padding: 5px; */
+        padding-top: 10px;
+    }
+
+#desktop-top-briefcase-icon a i
+    {
+        color: #000;
+    }
+
+.desk-nav
+    {
+        padding-top: 10px;
+    }    
+
+.desk-nav ul li
+    {
+        list-style-type: none;
+        margin-top: 10px;
+    }
+
+.desk-nav ul li a
+    {
+        color: #000;
+        font-weight: 700;
+    }
+
+#desk-lower-header
+    {
+        background: #00799c;
+        color: #fff;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+#desk-lower-header h5 a
+    {
+        color: #fff;
+    }
+
+#desk-content
+    {
+        background: #f4f4f4;
+    }
+
+#desk-content-iphone-textbox
+    {
+        background: #fff;
+        text-align: center;
+        margin-bottom: 15px;
+        padding: 51px 0px;
+        /* margin-top: 20px; */
+    }
+
+#desk-content-iphone-textbox span a
+    {
+        color: #000;
+    }
+
+#desk-content-iphone-textbox p a
+    {
+        color: #000;
+    }
+
+#desk-content-iphone-textbox2
+    {
+        background: #fff;
+        text-align: center;
+        margin-bottom: 15px;
+        padding: 51px 0px;
+        /* margin-top: 20px; */
+    }
+
+#desk-content-iphone-textbox2 span a
+    {
+        color: #000;
+    }
+
+#desk-content-iphone-textbox2 p a
+    {
+        color: #000;
+    }
+
+.desk-img-paadding-remove-ph
+    {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+        border-right: 7px solid #f4f4f4;
+    }
+
+.desk-img-paadding-remove-ear
+    {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+        border-left: 7px solid #f4f4f4;
+    }
+
+    #desk-img-phone
+        {
+            background: #fff;
+            
+        }
+
+    #desk-img-earpods
+        {
+            background: #fff;
+            /* border-left: 7px solid #f4f4f4; */
+        }
+
+    .desk-img-desc
+        {
+            text-align: center;
+            padding: 10px;
+        }
+    .desk-img-desc p a
+        {
+            color: #000;
+        }
+
+    #desk-img-recharge-pack
+        {
+            background: #fff;
+            padding-bottom: 10px;
+            text-align: center;
+        }
+        
+    #desk-img-recharge-pack p
+        {
+            padding: 51px 0px;
+        }
+
+    #desk-img-recharge-pack p strong a
+        {
+            color: #000;
+        }
+
+    #desk-footer-content
+        {
+            background: #000;
+            color: #fff;
+            padding: 14px 6px 6px 6px;
+        }
+
+    #desk-footer-fa-icons a i
+        {
+            font-size: 25px;
+            margin-right: 16px;
+            color: #fff;
+        }
+    
+    #desk-footer-info-return
+        {
+            text-align: right;
+            padding-right: 35px;
+        }
+
+    #desk-footer-info-return span
+        {
+            border-right: 1px solid;
+            padding: 0px 6px;
+        }
+
+    #desk-footer-info-return span a
+        {
+            color: #fff;
+        }
+
+    #desk-footer-faq-only
+        {
+            border-right: none !important;
+        }
+
+
+
+/******************** small screens ****************/
+
+    .mob-screen
+        {
+
+        }
+
+    #mob-top-header
+        {
+            padding-top: 6px;
+            border-bottom: 1px solid #d1d3d4;
+            box-shadow: 0px 0px 6px 0px #d1d3d4;
+        }
+    
+    #mob-logo
+        {
+            text-align: center;
+        }
+    
+    #mob-logo h2 a 
+        {
+            color: #000;
+        }
+
+    #mob-logo h2
+        {
+            font-weight: 700;
+        }
+   
+    #mob-top-collapsebar
+        {
+            padding-top: 8px;
+        }
+
+    #mob-top-collapsebar button
+        {
+            background: transparent;
+            border: transparent;
+        }
+
+    #mob-top-collapsebar button i
+        {
+            font-size: 40px;
+        }
+
+    #mob-top-user 
+        {
+            padding-top: 8px;
+            text-align: center;
+            border-right: 1px solid #d1d3d4;
+        }
+    
+    #mob-top-search
+        {
+            padding-top: 8px;
+            text-align: right;
+        }
+
+    #mob-top-user a i , #mob-top-search a i
+        {
+            font-size: 40px;
+            color: #000;
+        }
+
+    #mob-top-briefcase-icon
+        {
+            padding-top: 8px;
+            text-align: center;
+        }
+
+    #mob-top-briefcase-icon a i
+        {
+            font-size: 40px;
+            color: #000;
+        }
+
+    #mob-content
+        {
+            background: #f6f6f6;
+            position: relative;
+        }
+
+    #mob-lower-header
+        {
+            background: #00799c;
+            color: #fff;
+            text-align: center;
+            padding: 29px;
+        }
+
+    #mob-lower-header h2 a
+        {
+            color: #fff;
+        }
+
+    #mob-content-big-img
+        {
+            background: #fff;
+            padding-bottom: 10px;
+            text-align: center;
+            margin-top: 30px;
+            margin-bottom: 15px;
+        }
+        
+    #mob-content-big-img p
+        {
+            padding: 51px 0px;
+            font-size: 32px;
+        }
+
+    #mob-content-big-img p strong a
+        {
+            color: #000;
+        }
+
+    #mob-content-big-img p a
+        {
+            color: #000;
+        }
+
+    #mob-content-big-img img
+        {
+            margin: auto;
+        }
+
+    .mob-img-paadding-remove-ph
+        {
+            padding-left: 0px !important;
+            padding-right: 0px !important;
+            border-right: 7px solid #f4f4f4;
+        }
+
+    .mob-img-paadding-remove-ear
+        {
+            padding-left: 0px !important;
+            padding-right: 0px !important;
+            border-left: 7px solid #f4f4f4;
+        }
+
+    #mob-img-phone
+        {
+            background: #fff;
+            
+        }
+
+    #mob-img-earpods
+        {
+            background: #fff;
+            /* border-left: 7px solid #f4f4f4; */
+        }
+
+    .mob-img-desc
+        {
+            text-align: center;
+            padding: 10px;
+        }
+
+    .mob-img-desc p a
+        {
+            color: #000;
+            font-size: 22px;
+        }
+
+    #mob-content-iphone-textbox
+        {
+            background: #fff;
+            text-align: center;
+            margin-bottom: 15px;
+            padding: 51px 0px;
+            /* margin-top: 20px; */
+        }
+
+    #mob-content-iphone-textbox span a , #mob-content-iphone-textbox p a
+        {
+            color: #000;
+            font-size: 22px;
+        }
+
+    #mob-footer-content
+        {
+            background: #000;
+            color: #fff;
+            padding: 14px 6px 6px 6px;
+        }
+
+    #mob-footer-fa-icons
+        {
+            text-align: center;
+            padding: 12px 25px 12px 0px;
+            font-size: 23px;
+        }
+    #mob-footer-fa-icons a i
+        {
+            padding-right: 10px;
+            font-size: 23px;
+            color: #fff;
+        }
+    #mob-footer-fa-icons span
+        {
+            padding-left: 12px;
+        }
+    
+    #mob-footer-info-return
+        {
+            text-align: center;
+            font-size: 23px;
+            border-bottom: 1px solid #fff;
+            padding-bottom: 12px;
+        }
+
+    #mob-footer-info-return span
+        {
+            border-right: 1px solid;
+            padding: 0px 6px;
+        }
+
+    #mob-footer-info-return span a
+        {
+            color: #fff;
+            font-size: 22px;
+        }
+
+    #mob-footer-faq-only
+        {
+            border-right: none !important;
+        }
+
+    #mob-footer-copyrights
+        {
+            padding: 12px 0px;
+            font-size: 23px;
+            text-align: left;
+        }
+
+    .mob-nav
+        {
+            display: none;
+        }
+
+    .mob-nav-collapse
+        {
+            position: absolute !important;
+            background: #fff;
+            top: 70px; 
+            /* display: block !important; */
+            height: 100%;
+            width: 100%;
+        }
+
+    .mob-nav-collapse nav ul li
+        {
+            list-style-type: none;
+            padding: 15px 10px;
+        }
+
+    .mob-nav-collapse nav ul li a
+        {
+            color: #000;
+            font-size: 27px;
+            font-weight: 700;
+        }
+
+    .mob-nav-collapse nav ul
+        {
+            padding-top: 18px;
+            padding-left: 60px;
+        }
+        /****************** media queries ****************/
+
+    @media only screen and (max-width: 1024px) 
+        {
+            .desktop-screen
+                {
+                    display: none;
+                }
+        }
+
+    @media only screen and (min-width: 1025px) 
+        {
+            .mob-screen
+                {
+                    display: none;
+                }
+        }
